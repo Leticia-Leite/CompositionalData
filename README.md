@@ -17,9 +17,8 @@ para uma correta análise e interpretação dos dados.
 Um dos métodos estatísticos mais usuais na identificação de observações multivariadas atípicas baseia-se na distância de Mahalanobis
 calculada com estimativas robustas da média e da matriz de covariância populacionais obtidas através do
 estimador MCD (Minimum Covariance Determinant). Graficamente, o método biplot é uma ferramenta exploratória amplamente utilizada na
-visualização de observações multivariadas e, consequentemente, de \textit{outliers}. Considerando o caso especial de dados composicionais,
-um dos propósitos do presente trabalho reside também em estudar propriedades da distância de Mahalanobis robusta e biplots robustos sobre
-este tipo de dados na deteção de composições outliers.
+visualização de observações multivariadas e, consequentemente, de outliers. Considerando o caso especial de dados composicionais,
+um dos propósitos do presente trabalho reside também em estudar propriedades da distância de Mahalanobis robusta e biplots robustos sobre este tipo de dados na deteção de composições outliers.
 
 Como aplicação destas metodologias estatísticas exploram-se, sob o ponto de vista relativo (isto é, composicional), três conjuntos de
 dados demográficos, extraídos dos Censos 2011, baseados na migração interna em Portugal. Esses conjuntos dizem respeito a todos
